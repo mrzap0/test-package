@@ -1,0 +1,4 @@
+/node_modules
+/index.js
+/package-lock.json
+/test-package_*.tar.gz
